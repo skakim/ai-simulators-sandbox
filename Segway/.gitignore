@@ -1,0 +1,10 @@
+env/
+game_elements/*.pyc
+AI_controller/*.pyc
+AI_controller/test.py
+resources/*.xcf
+params/*.txt
+performance/*.txt
+*.py~
+Opponent/*
+*.txt

@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+W_WIDTH      = 1200
+W_HEIGHT     = 600
+Y_START      = W_HEIGHT/2 - 80
+X_START      = W_WIDTH/2
+ROD_LENGTH   = 300
+F_HEIGHT     = 100
+MAX_STEPS    = 10000
+VS_MAX_STEPS = 800
+VS_ROUNDS    = 10
+IMPULSE_PROB = 250
